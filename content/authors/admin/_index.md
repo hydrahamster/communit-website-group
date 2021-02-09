@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sara Ballouz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Gene Networks in Disease group leader 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Garvan Institute of Medical Research
+  url: "https://www.garvan.org.au/people/sarba2"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My central scientific interest has been to understand the genetic architecture of disease. With data from the genome, transcriptome, epigenome and proteome increasing exponentially, robust tools and practices need to be established to analyse this deluge, in particular if to be applied to personalized medicine.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Transcriptomics
+- X-linked disorders
+- Sex differences in disease
 
 education:
   courses:
